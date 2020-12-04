@@ -1,0 +1,10 @@
+{
+  "name": "apollo-client-7415",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "graphql-yoga": "1.2.0"
+  }
+}
